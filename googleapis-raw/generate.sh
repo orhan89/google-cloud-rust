@@ -78,6 +78,7 @@ cloud/asset/v1
 cloud/orgpolicy/v1
 cloud/osconfig/v1
 logging
+logging/v2
 logging/type
 type
 iam/v1

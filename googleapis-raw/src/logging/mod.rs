@@ -13,3 +13,4 @@
 // limitations under the License.
 
 pub mod r#type;
+pub mod v2;

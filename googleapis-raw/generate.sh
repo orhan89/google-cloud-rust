@@ -80,6 +80,7 @@ cloud/osconfig/v1
 logging
 logging/v2
 logging/type
+monitoring/v3
 type
 iam/v1
 identity/accesscontextmanager/v1

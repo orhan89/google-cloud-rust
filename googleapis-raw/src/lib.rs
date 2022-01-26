@@ -27,6 +27,7 @@ pub mod api;
 pub mod bigtable;
 pub mod cloud;
 pub mod logging;
+pub mod monitoring;
 pub mod longrunning;
 pub mod pubsub;
 pub mod spanner;
